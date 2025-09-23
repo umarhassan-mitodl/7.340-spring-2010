@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Health and Medicine",
+      "Cellular and Molecular Medicine"
+    ]
+  ],
+  "legacy_uid": "543a1fe9-5b48-9a51-ef02-ea416c205006",
+  "instructors": {
+    "content": [
+      "24d8ac94-8ae9-77ba-ac80-8bfb63f0272b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c7e55c6a-e9fd-6cec-5701-bbe7299ed0b4",
+    "website": "7-340-regenerative-medicine-from-bench-to-bedside-spring-2010"
+  },
+  "course_title": "Regenerative Medicine: from Bench to Bedside",
+  "course_description": "Regenerative medicine involves the repair and regeneration of tissues for therapeutic purposes, such as replacing bone marrow in leukemia, cartilage in osteoarthritis or cells of the heart after a heart attack.\n\nIn this course, we will explore basic mechanisms of how cells differentiate into specific tissues in response to a variety of biologic signaling molecules. We will discuss the use of such factors for in vitro tissue production. We will also study the cellular mechanisms involved in the cloning of animals and how Scottish researchers produced the sheep Dolly using the nucleus of a mammary gland cell from an adult sheep. We will read papers describing organ production, such as the in vitro formation of beating heart cells. We will also consider the molecular bases of cellular tissue remodeling to correct these changes. We will discuss how studies of the developmental, cellular and molecular biology of regeneration have led to the discovery of new drugs.\n\nThis course is one of many {{% resource_link \"35ce689e-93fa-400c-bc7b-232ad0ad5df0\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.340",
+  "course_image_thumbnail": {
+    "content": "69036b1c-5a87-f36b-af7e-5daf47ecca8c",
+    "website": "7-340-regenerative-medicine-from-bench-to-bedside-spring-2010"
+  },
+  "learning_resource_types": [],
+  "site_uid": "05dbe578-6486-45c1-99da-e714731e03a0",
+  "site_short_id": "7.340-spring-2010",
+  "site_url_path": "courses/7-340-regenerative-medicine-from-bench-to-bedside-spring-2010",
+  "title": "Course Metadata"
+}
